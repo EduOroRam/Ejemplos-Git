@@ -1,5 +1,5 @@
-# PythonM0
-Modulo 0 Python
+# Ejemplos Git
+Ejemplos para el curso de git
 
 Autor: Eduardo Orozco.
 Onboarding Launch X.
